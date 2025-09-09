@@ -1,5 +1,3 @@
-Got it 👍 You want your README to sound more **fun, chill, and friendly**, instead of the default boilerplate from Flutter. Here’s a rewritten version for your `smart_water` project:
-
 ---
 
 # 💧 smart\_water
