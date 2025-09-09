@@ -2,6 +2,9 @@
 
 # smart\_water
 
+![App Screenshot](assets/Screenshot%202025-05-18%20211850.png)
+![App Data History](assets/Screenshot%202025-05-18%20211903.png)
+
 This project is all about building a **smart flood mitigation system**. Instead of waiting for water levels to rise and flood everything, this system **monitors water in reservoirs and automatically moves it around with pumps** — all controlled by IoT + Flutter.
 
 Think of it like a “smart irrigation system,” but for cities dealing with floods.
